@@ -1,0 +1,27 @@
+body{ 
+text-align: center; 
+font-family: Verdana;
+background-image: url( imagens/code.jpg);
+background-size: cover;
+color: gray;
+ }
+
+ h1{ font-size: 70px;
+ 	padding-top: 300px;
+ 	text-shadow: 5px 5px 5px gray;
+ 	margin-bottom: 15px;
+ }
+
+p{ 
+	font-size: 25px; }
+.botao{
+	text-decoration: none;
+	background-color: rgb(5,11,51);
+	color: white;
+	font-size: 20px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 6px;
+}
+.botao:hover{
+	background-color: gray;
+}
